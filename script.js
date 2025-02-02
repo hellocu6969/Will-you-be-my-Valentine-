@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Ban tui co chac khum",
+    "Ban tui co thuc su chan chan khum :<",
+    "100% khum ha",
+    "Di maaaa ban iuuuuu",
+    "Nghi them 1 lan nua i",
+    "Ban tui bao khum la tui bun lam a :<",
+    "Tui se cuc cuc cuc cuc ki buon lun",
+    "Tui se sieu sieu sieu sieu sieuuuu bun lunnnn",
+    "Thoi duoc rui... tui se k hoi nua",
+    "Dua thui, an co i ma :3❤️"
 ];
 
 let messageIndex = 0;
